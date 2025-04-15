@@ -1,0 +1,9 @@
+{
+  "GuiName": "ArgusBackup",
+  "HeaderText": "Command Executor-Backup",
+  "PrimaryUserListUrl": "https://raw.githubusercontent.com/ifjog4tbn/argus-backup/refs/heads/main/users.txt",
+  "BackupUserListUrl": "https://raw.githubusercontent.com/ifjog4tbn/argus-backup/refs/heads/main/users_backup",
+  "Working": true,
+  "RemoteEventName": "arg2",
+  "ChatCommand": "/argus2"
+}
